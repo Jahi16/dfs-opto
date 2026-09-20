@@ -1,0 +1,26 @@
+Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Roster Position
+1,PG,Luka,Luka Doncic,Doncic,64.2,Y,12000,LAL@DEN,LAL,DEN,,,PG
+2,PG,Tyrese,Tyrese Maxey,Maxey,53.5,Y,10200,PHI@BOS,PHI,BOS,,,PG
+3,PG,Shai,SGA,Gilgeous-Alexander,55.0,Y,10800,OKC@MIN,OKC,MIN,,,PG
+4,PG,Trae,Trae Young,Young,48.0,Y,9200,ATL@ORL,ATL,ORL,,,PG
+5,SG,Donovan,Donovan Mitchell,Mitchell,49.0,Y,9600,CLE@NYK,CLE,NYK,,,SG
+6,SG,Anthony,Anthony Edwards,Edwards,50.5,Y,9800,MIN@OKC,MIN,OKC,,,SG
+7,SG,Desmond,Desmond Bane,Bane,36.9,Y,7200,MEM@DAL,MEM,DAL,,,SG
+8,SG,Jaylen,Jaylen Brown,Brown,50.0,Y,9500,BOS@PHI,BOS,PHI,,,SG
+9,SF,Kevin,Kevin Durant,Durant,46.1,Y,9300,PHX@HOU,PHX,HOU,,,SF
+10,SF,Kawhi,Kawhi Leonard,Leonard,48.2,Y,9000,LAC@SAC,LAC,SAC,,,SF
+11,SF,Deni,Deni Avdija,Avdija,49.4,Y,8900,POR@GSW,POR,GSW,,,SF
+12,SF,Jaime,Jaime Jaquez,Jaquez,28.0,Y,5200,MIA@ORL,MIA,ORL,,,SF
+13,PF,Jalen,Jalen Johnson,Johnson,53.5,Y,9400,ATL@ORL,ATL,ORL,,,PF
+14,PF,Scottie,Scottie Barnes,Barnes,46.0,Y,8800,TOR@CHI,TOR,CHI,,,PF
+15,PF,Julius,Julius Randle,Randle,41.8,Y,7600,MIN@OKC,MIN,OKC,,,PF
+16,PF,GG,GG Jackson,Jackson,25.0,Y,4600,MEM@DAL,MEM,DAL,,,PF
+17,C,Nikola,Nikola Jokic,Jokic,68.6,Y,12500,LAL@DEN,DEN,LAL,,,C
+18,C,Victor,Victor Wembanyama,Wembanyama,55.0,Y,10500,SAS@NOP,SAS,NOP,,,C
+19,C,Domantas,Domantas Sabonis,Sabonis,48.0,Y,9100,SAC@LAC,SAC,LAC,,,C
+20,C,Walker,Walker Kessler,Kessler,26.0,Y,4200,UTA@POR,UTA,POR,,,C
+21,PG,Fred,Fred VanVleet,VanVleet,32.0,Y,6200,HOU@PHX,HOU,PHX,,,PG
+22,SG,Jaden,Jaden Ivey,Ivey,24.0,Y,4500,DET@CHA,DET,CHA,,,SG
+23,SF,Herb,Herb Jones,Jones,22.0,Y,4200,NOP@SAS,NOP,SAS,,,SF
+24,PF,Naz,Naz Reid,Reid,30.0,Y,5900,MIN@OKC,MIN,OKC,,,PF
+25,C,Isaiah,Isaiah Hartenstein,Hartenstein,32.0,Y,6400,OKC@MIN,OKC,MIN,,,C

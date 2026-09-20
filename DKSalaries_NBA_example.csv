@@ -1,0 +1,26 @@
+Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+PG/SG,Luka Doncic (1),Luka Doncic,1,PG/SG/G/UTIL,11200,LAL@DEN,LAL,64.2
+PG,Tyrese Maxey (2),Tyrese Maxey,2,PG/G/UTIL,9600,PHI@BOS,PHI,53.5
+PG,SGA (3),SGA,3,PG/G/UTIL,10200,OKC@MIN,OKC,55.0
+PG,Trae Young (4),Trae Young,4,PG/G/UTIL,8700,ATL@ORL,ATL,48.0
+SG,Donovan Mitchell (5),Donovan Mitchell,5,SG/G/UTIL,9100,CLE@NYK,CLE,49.0
+SF/PF,Anthony Edwards (6),Anthony Edwards,6,SF/G/UTIL,9300,MIN@OKC,MIN,50.5
+SG,Desmond Bane (7),Desmond Bane,7,SG/G/UTIL,6800,MEM@DAL,MEM,36.9
+SG,Jaylen Brown (8),Jaylen Brown,8,SG/SF/G/F/UTIL,9000,BOS@PHI,BOS,50.0
+SF,Kevin Durant (9),Kevin Durant,9,SF/F/UTIL,8800,PHX@HOU,PHX,46.1
+SF,Kawhi Leonard (10),Kawhi Leonard,10,SF/F/UTIL,8500,LAC@SAC,LAC,48.2
+SF,Deni Avdija (11),Deni Avdija,11,SF/F/UTIL,8400,POR@GSW,POR,49.4
+SF,Jaime Jaquez (12),Jaime Jaquez,12,SF/F/UTIL,4900,MIA@ORL,MIA,28.0
+PF,Jalen Johnson (13),Jalen Johnson,13,PF/F/UTIL,8900,ATL@ORL,ATL,53.5
+PF,Scottie Barnes (14),Scottie Barnes,14,PF/F/UTIL,8300,TOR@CHI,TOR,46.0
+PF,Julius Randle (15),Julius Randle,15,PF/F/UTIL,7100,MIN@OKC,MIN,41.8
+PF,GG Jackson (16),GG Jackson,16,PF/F/UTIL,4300,MEM@DAL,MEM,25.0
+C,Nikola Jokic (17),Nikola Jokic,17,C/UTIL,11800,LAL@DEN,DEN,68.6
+C,Victor Wembanyama (18),Victor Wembanyama,18,C/UTIL,9900,SAS@NOP,SAS,55.0
+C,Domantas Sabonis (19),Domantas Sabonis,19,C/UTIL,8600,SAC@LAC,SAC,48.0
+C,Walker Kessler (20),Walker Kessler,20,C/UTIL,3900,UTA@POR,UTA,26.0
+PG,Fred VanVleet (21),Fred VanVleet,21,PG/G/UTIL,5800,HOU@PHX,HOU,32.0
+SG,Jaden Ivey (22),Jaden Ivey,22,SG/G/UTIL,4200,DET@CHA,DET,24.0
+SF,Herb Jones (23),Herb Jones,23,SF/F/UTIL,3900,NOP@SAS,NOP,22.0
+PF,Naz Reid (24),Naz Reid,24,PF/F/UTIL,5500,MIN@OKC,MIN,30.0
+C,Isaiah Hartenstein (25),Isaiah Hartenstein,25,C/UTIL,6000,OKC@MIN,OKC,32.0

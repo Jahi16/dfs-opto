@@ -1,0 +1,20 @@
+Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Roster Position
+1,QB,Lamar,Lamar Jackson,Jackson,25.1,Y,9200,CIN@BAL,BAL,CIN,,,QB
+2,QB,Josh,Josh Allen,Allen,24.5,Y,9000,BUF@MIA,BUF,MIA,,,QB
+3,QB,Bryce,Bryce Young,Young,15.2,Y,6800,CAR@TB,CAR,TB,,,QB
+4,RB,Christian,CMC,McCaffrey,22.1,Y,9600,SF@SEA,SF,SEA,,,RB
+5,RB,Bijan,Bijan Robinson,Robinson,19.4,Y,8300,ATL@NO,ATL,NO,,,RB
+6,RB,Saquon,Saquon Barkley,Barkley,18.9,Y,7900,PHI@DAL,PHI,DAL,,,RB
+7,RB,Tony,Tony Pollard,Pollard,12.8,Y,6100,TEN@JAX,TEN,JAX,,,RB
+8,RB,Rico,Rico Dowdle,Dowdle,11.5,Y,5400,CAR@TB,CAR,TB,,,RB
+9,WR,Ja'Marr,Chase,Chase,20.5,Y,9200,CIN@BAL,CIN,BAL,,,WR
+10,WR,Justin,Justin Jefferson,Jefferson,19.8,Y,9000,MIN@CHI,MIN,CHI,,,WR
+11,WR,CeeDee,CeeDee Lamb,Lamb,19.1,Y,8700,PHI@DAL,DAL,PHI,,,WR
+12,WR,Jameson,Jameson Williams,Williams,12.9,Y,5700,DET@GB,DET,GB,,,WR
+13,WR,Xavier,Xavier Worthy,Worthy,10.8,Y,4900,KC@DEN,KC,DEN,,,WR
+14,WR,Rome,Rome Odunze,Odunze,11.2,Y,5100,MIN@CHI,CHI,MIN,,,WR
+15,TE,Brock,Brock Bowers,Bowers,15.8,Y,7200,LV@LAC,LV,LAC,,,TE
+16,TE,Dalton,Dalton Kincaid,Kincaid,9.0,Y,4500,BUF@MIA,BUF,MIA,,,TE
+17,TE,Cole,Cole Kmet,Kmet,8.1,Y,4100,MIN@CHI,CHI,MIN,,,TE
+18,DEF,,Broncos,Broncos,9.5,Y,4400,KC@DEN,DEN,KC,,,DEF
+19,DEF,,Bears,Bears,7.8,Y,3900,MIN@CHI,CHI,MIN,,,DEF

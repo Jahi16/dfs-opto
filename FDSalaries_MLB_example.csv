@@ -1,0 +1,31 @@
+Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Roster Position
+1,P,Paul,Paul Skenes,Skenes,19.5,Y,11800,PIT@CHC,PIT,CHC,,,P
+2,P,Tarik,Tarik Skubal,Skubal,19.0,Y,11500,DET@CLE,DET,CLE,,,P
+3,P,Zack,Zack Wheeler,Wheeler,17.8,Y,10600,PHI@NYM,PHI,NYM,,,P
+4,P,Logan,Logan Webb,Webb,15.2,Y,9200,SF@LAD,SF,LAD,,,P
+5,P,Ranger,Ranger Suarez,Suarez,11.5,Y,7400,PHI@NYM,PHI,NYM,,,P
+6,P,Kyle,Kyle Harrison,Harrison,10.2,Y,6600,SF@LAD,SF,LAD,,,P
+7,C,Will,Will Smith,Smith,10.1,Y,3400,SF@LAD,LAD,SF,,,C
+8,C,Adley,Adley Rutschman,Rutschman,9.4,Y,3200,BAL@BOS,BAL,BOS,,,C
+9,1B,Freddie,Freddie Freeman,Freeman,10.8,Y,3700,SF@LAD,LAD,SF,,,1B
+10,1B,Pete,Pete Alonso,Alonso,10.2,Y,3500,PHI@NYM,NYM,PHI,,,1B
+11,2B,Marcus,Marcus Semien,Semien,9.7,Y,3300,HOU@TEX,TEX,HOU,,,2B
+12,2B,Jose,Jose Altuve,Altuve,9.9,Y,3400,HOU@TEX,HOU,TEX,,,2B
+13,3B,Manny,Manny Machado,Machado,10.5,Y,3600,SF@LAD,SF,LAD,,,3B
+14,3B,Alex,Alex Bregman,Bregman,10.0,Y,3500,BOS@BAL,BOS,BAL,,,3B
+15,SS,Bobby,Bobby Witt,Witt Jr.,12.1,Y,4000,MIN@KC,KC,MIN,,,SS
+16,SS,Francisco,Francisco Lindor,Lindor,11.6,Y,3900,PHI@NYM,NYM,PHI,,,SS
+17,OF,Mookie,Mookie Betts,Betts,11.9,Y,3900,SF@LAD,LAD,SF,,,OF
+18,OF,Juan,Juan Soto,Soto,12.4,Y,4000,PHI@NYM,NYM,PHI,,,OF
+19,OF,Kyle,Kyle Tucker,Tucker,11.2,Y,3700,HOU@TEX,HOU,TEX,,,OF
+20,OF,Julio,Julio Rodriguez,Rodriguez,10.6,Y,3500,SEA@OAK,SEA,OAK,,,OF
+21,OF,Riley,Riley Greene,Greene,9.5,Y,3200,DET@CLE,DET,CLE,,,OF
+22,OF,Steven,Steven Kwan,Kwan,8.3,Y,2900,DET@CLE,CLE,DET,,,OF
+23,OF,Wyatt,Wyatt Langford,Langford,8.7,Y,3000,HOU@TEX,TEX,HOU,,,OF
+24,OF,Corbin,Corbin Carroll,Carroll,9.8,Y,3300,ARI@COL,ARI,COL,,,OF
+25,C,William,William Contreras,Contreras,9.0,Y,3100,MIL@CIN,MIL,CIN,,,C
+26,1B,Yandy,Yandy Diaz,Diaz,9.2,Y,3150,TB@NYY,TB,NYY,,,1B
+27,SS,Willy,Willy Adames,Adames,9.4,Y,3300,SF@LAD,SF,LAD,,,SS
+28,3B,Jose,Jose Ramirez,Ramirez,11.4,Y,3800,DET@CLE,CLE,DET,,,3B
+29,2B,Andres,Andres Gimenez,Gimenez,7.5,Y,2700,DET@CLE,CLE,DET,,,2B
+30,OF,Jasson,Jasson Dominguez,Dominguez,7.6,Y,2800,NYY@TB,NYY,TB,,,OF
